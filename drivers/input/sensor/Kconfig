@@ -1,0 +1,4 @@
+source "drivers/input/sensor/accelerometer/Kconfig"
+source "drivers/input/sensor/geomagnetic/Kconfig"
+source "drivers/input/sensor/orientation/Kconfig"
+source "drivers/input/sensor/proximity/Kconfig"
